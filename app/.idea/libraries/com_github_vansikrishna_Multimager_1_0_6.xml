@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.github.vansikrishna:Multimager-1.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Multimager-1.0.6.aar/50cabfd647a5dee2d210bd4a7d8d71ee/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Multimager-1.0.6.aar/50cabfd647a5dee2d210bd4a7d8d71ee/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Multimager-1.0.6.aar/50cabfd647a5dee2d210bd4a7d8d71ee/jars/libs/picasso-2.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

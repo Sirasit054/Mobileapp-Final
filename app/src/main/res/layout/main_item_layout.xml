@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ripple_main_item"
+             android:columnCount="3">
+
+      <android.support.v4.widget.Space
+            android:layout_columnSpan="3"
+            android:layout_height="10dp"/>
+
+      <ImageView android:id="@+id/img_category"
+                   android:src="@mipmap/ic_launcher"
+                   android:layout_marginLeft="10dp"
+                  android:layout_marginRight="15dp"
+                 android:tint="#c9c"
+      />
+
+      <TextView android:id="@+id/text_category"
+                android:textSize="18sp"
+                android:textColor="#090"
+                android:text="ทดสอบ"
+                android:layout_gravity="center_vertical|fill_horizontal"
+                android:layout_columnWeight="1"
+         />
+
+      <ImageView
+                   android:src="@drawable/ic_navigate_next"
+                   android:layout_marginRight="10dp"
+                  android:layout_gravity="center_vertical"
+                   android:tint="#999"
+      />
+
+      <android.support.v4.widget.Space android:layout_columnSpan="3" android:layout_height="10dp"/>
+
+      <!-- เส้นแบ่งระหว่างรายการ -->
+      <TextView
+            android:layout_height="1dp"
+            android:layout_columnSpan="3"
+            android:layout_columnWeight="1"
+            android:layout_gravity="fill_horizontal"
+            android:background="#999" />
+
+</GridLayout>

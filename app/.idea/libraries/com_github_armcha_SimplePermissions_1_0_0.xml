@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.armcha:SimplePermissions-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/SimplePermissions-1.0.0.aar/2711de7bd1d78674124877edfc285b5e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/SimplePermissions-1.0.0.aar/2711de7bd1d78674124877edfc285b5e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.armcha/SimplePermissions/1.0.0/508864a04caadec7c84b6326af9356d79e92b18b/SimplePermissions-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
